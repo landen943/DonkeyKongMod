@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "donkeykongmod:block/banana_plant_stage5"
+    }
+}

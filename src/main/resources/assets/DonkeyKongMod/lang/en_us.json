@@ -1,0 +1,12 @@
+{
+	"itemGroup.donkeykongmod": "Donkey Kong Mod",
+	"generator.dk_island_type": "Planet Donkey Kong",
+
+	"item.donkeykongmod.banana": "Banana",
+	"item.donkeykongmod.banana_barrel": "Banana Barrel",
+
+	"item.donkeykongmod.barrel": "Donkey Kong Barrel",
+
+	"item.donkeykongmod.banana_seeds": "Banana Seeds",
+	"block.donkeykongmod.crystal_coconut_ore": "Crystal Coconut Ore"
+}
